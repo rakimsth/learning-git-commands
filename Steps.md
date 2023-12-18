@@ -8,3 +8,8 @@ In my PC, Open in terminal / git bash
 5. Open the repo in vscode
 
 Following are the git commands necessary
+
+a. Clone = Clones the repo
+b. Add = Add the files that are coded by me
+c. Commit = show the message that I had written
+d. Push = Publish the changes in the github repo
